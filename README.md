@@ -7,7 +7,7 @@ This repository contains the code of timetable generator using python.
 
 ![Inputs_image-2](https://github.com/JayachandraJangiti/Timetable-generator/assets/159880775/3785763b-ab6d-4894-8207-a49a8283386d)
 
-- The output will be shown like :
+- The output will be shown like below:
 
 ![output_image-1](https://github.com/JayachandraJangiti/Timetable-generator/assets/159880775/b7558920-e067-4b84-a4b0-b635931b02b8)
 
